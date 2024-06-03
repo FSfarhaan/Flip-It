@@ -11,17 +11,11 @@
 - ⏱️ **Timer**: Track the time taken to complete each round.
 - 🏆 **High Score Tracking**: Compare your best time with the highest score.
 
-## 📸 Screenshots
-
-<!-- Add screenshots of your app here. Example: -->
-![Screenshot1](screenshots/screenshot1.jpeg)
-![Screenshot2](screenshots/screenshot2.jpeg)
-
 ## 🚀 Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Flip-It.git
+    git clone https://github.com/FSfarhaan/Flip-It-.git
     ```
 2. **Open the project in Android Studio**:
     - Open Android Studio
@@ -64,6 +58,12 @@
 ## 🤝 Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request with your improvements.
+
+## 📸 Screenshots
+
+<!-- Add screenshots of your app here. Example: -->
+![Screenshot1](screenshots/screenshot1.jpeg)
+![Screenshot2](screenshots/screenshot2.jpeg)
 
 ## 📬 Contact
 
